@@ -10,5 +10,6 @@ public static class ChannelFactory
             SingleReader = false,
             SingleWriter = false
         });
+        // comment
     }
 }
